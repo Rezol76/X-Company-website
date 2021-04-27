@@ -1,20 +1,25 @@
-
 h1 {
-    
-    colour: white;
-    font-size: 20px
-     font-color: red;
-    }
-
-h2
-
-
-h3
-
-
-
-h4
-
-
-
-h5
+  color: white;
+  font-size: 20px;
+  font-color: red;
+}
+h2 {
+  color: white;
+  font-size: 20px;
+  font-color: red;
+}
+h3 {
+  color: white;
+  font-size: 20px;
+  font-color: red;
+}
+h4 {
+  color: white;
+  font-size: 20px;
+  font-color: red;
+}
+h5 {
+  color: white;
+  font-size: 20px;
+  font-color: red;
+}
